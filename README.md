@@ -60,6 +60,7 @@ The primary objective was to upgrade the existing data warehousing infrastructur
 
 # Visual Portfolio
 # Data Flow Diagram
+![image](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/4682f61f-16ff-4f4d-9684-d9c8f545003c)
 
 - **Description:** Illustrates the data extraction, transformation, and loading processes from various sources into SAP BW/4HANA.
 
