@@ -21,6 +21,8 @@ The primary objective was to upgrade the existing data warehousing infrastructur
 - **System Configuration and Customization:** Customized SAP solutions to meet specific business needs, enhancing user experience and operational efficiency.
 - **Project Management and Stakeholder Engagement:** Effectively managed project timelines, - milestones, and stakeholder communication, ensuring successful project delivery.
 
+![image (8)](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/01043fc8-87aa-41e4-b515-ce9e7c45846b)
+
 # Project Highlights
 
 # 1. Data Integration and ETL
@@ -38,6 +40,8 @@ The primary objective was to upgrade the existing data warehousing infrastructur
 # 5. Project Management
 - **Tools Used:** SAP Solution Manager
 - **Achievement:** Managed the project lifecycle efficiently, from planning and execution to testing and documentation. Ensured all project milestones were met on time and within budget, maintaining clear communication with all stakeholders throughout the project.
+
+![image (9)](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/c7926826-5407-4d53-b621-d8f8ee00c288)
 
 # Challenges and Solutions
 
