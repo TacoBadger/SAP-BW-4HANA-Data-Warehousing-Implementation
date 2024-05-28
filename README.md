@@ -62,12 +62,14 @@ The primary objective was to upgrade the existing data warehousing infrastructur
 # Data Flow Diagram
 ![image](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/4682f61f-16ff-4f4d-9684-d9c8f545003c)
 
-- **Description:** Illustrates the data extraction, transformation, and loading processes from various sources into SAP BW/4HANA.
+- **Description:** Illustrates the data extraction, transformation, and loading processes from various sources into SAP
 
-Dashboard Samples
+
+![image (1)](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/6d2a61ae-2132-4b61-bfc3-7756ca3b2b9e)
 
 - **Description:** Includes screenshots or images of advanced dashboards and reports created in SAP Analytics Cloud, showcasing real-time data insights and analytics capabilities.
-Performance Improvement Chart
+
+![image (2)](https://github.com/TacoBadger/SAP-BW-4HANA-Data-Warehousing-Implementation/assets/11693256/8d278173-90d1-4249-ae3e-3fb760ddbcd3)
 
 - **Description:** Depicts the improvement in data processing speed and cost reduction, highlighting the project's success in achieving its objectives.
 
